@@ -1,0 +1,41 @@
+sku,name,category,unit_cost,selling_price,ordering_cost,holding_cost_rate,primary_supplier_code,is_simulated
+SKU-101,Wireless Optical Mouse,Electronics,320.0,529.0,350.0,0.224,SUP-02,True
+SKU-102,USB-C Fast Charger 25W,Electronics,410.0,694.0,650.0,0.256,SUP-02,True
+SKU-103,Bluetooth Earbuds Pro,Electronics,1350.0,2089.0,400.0,0.244,SUP-07,True
+SKU-104,Smart LED Bulb 9W,Electronics,240.0,429.0,700.0,0.186,SUP-02,True
+SKU-105,Portable Power Bank 10000mAh,Electronics,780.0,1249.0,350.0,0.269,SUP-02,True
+SKU-106,HDMI Cable 2m,Electronics,150.0,314.0,700.0,0.195,SUP-07,True
+SKU-107,Mechanical Keyboard,Electronics,2100.0,3044.0,700.0,0.227,SUP-02,True
+SKU-108,Stainless Steel Water Bottle 1L,Home & Kitchen,210.0,399.0,450.0,0.247,SUP-04,True
+SKU-109,Non-stick Frying Pan 26cm,Home & Kitchen,640.0,1089.0,650.0,0.26,SUP-04,True
+SKU-110,Glass Storage Containers (Set of 3),Home & Kitchen,480.0,839.0,650.0,0.2,SUP-04,True
+SKU-111,Electric Kettle 1.5L,Home & Kitchen,890.0,1379.0,450.0,0.226,SUP-04,True
+SKU-112,Cotton Bath Towel,Home & Kitchen,260.0,504.0,650.0,0.227,SUP-04,True
+SKU-113,Pressure Cooker 5L,Home & Kitchen,1450.0,2099.0,350.0,0.21,SUP-04,True
+SKU-114,Herbal Shampoo 340ml,Personal Care,145.0,269.0,550.0,0.265,SUP-08,True
+SKU-115,Sunscreen SPF50 100ml,Personal Care,260.0,494.0,500.0,0.236,SUP-08,True
+SKU-116,Aloe Vera Face Wash,Personal Care,120.0,239.0,600.0,0.197,SUP-08,True
+SKU-117,Electric Trimmer,Personal Care,980.0,1469.0,600.0,0.23,SUP-08,True
+SKU-118,Moisturising Body Lotion 400ml,Personal Care,210.0,389.0,400.0,0.21,SUP-08,True
+SKU-119,Basmati Rice 5kg,Groceries & Staples,520.0,634.0,450.0,0.271,SUP-05,True
+SKU-120,Cold-pressed Groundnut Oil 1L,Groceries & Staples,215.0,269.0,700.0,0.252,SUP-05,True
+SKU-121,Organic Toor Dal 1kg,Groceries & Staples,140.0,179.0,400.0,0.2,SUP-05,True
+SKU-122,Assam Tea 500g,Groceries & Staples,190.0,254.0,500.0,0.256,SUP-05,True
+SKU-123,Whole Wheat Atta 10kg,Groceries & Staples,380.0,454.0,350.0,0.188,SUP-05,True
+SKU-124,Instant Coffee 200g,Groceries & Staples,330.0,459.0,600.0,0.194,SUP-05,True
+SKU-125,Men's Cotton T-shirt,Apparel,240.0,529.0,700.0,0.215,SUP-06,True
+SKU-126,Women's Woollen Shawl,Apparel,560.0,1089.0,550.0,0.258,SUP-06,True
+SKU-127,Unisex Hooded Sweatshirt,Apparel,690.0,1309.0,400.0,0.227,SUP-06,True
+SKU-128,Denim Jeans Slim Fit,Apparel,720.0,1329.0,550.0,0.182,SUP-06,True
+SKU-129,Sports Socks (Pack of 3),Apparel,110.0,254.0,450.0,0.247,SUP-06,True
+SKU-130,Rain Jacket,Apparel,640.0,1149.0,350.0,0.191,SUP-06,True
+SKU-131,A4 Copier Paper (500 sheets),Office Supplies,260.0,349.0,550.0,0.263,SUP-01,True
+SKU-132,Gel Pens (Pack of 10),Office Supplies,85.0,169.0,450.0,0.232,SUP-01,True
+SKU-133,Spiral Notebook A5,Office Supplies,45.0,99.0,450.0,0.279,SUP-01,True
+SKU-134,Desk Organizer,Office Supplies,310.0,539.0,500.0,0.232,SUP-01,True
+SKU-135,Whiteboard Markers (Set of 4),Office Supplies,95.0,184.0,700.0,0.255,SUP-01,True
+SKU-136,Ergonomic Office Chair,Office Supplies,4200.0,5879.0,350.0,0.263,SUP-01,True
+SKU-137,Stapler Heavy Duty,Office Supplies,180.0,339.0,350.0,0.211,SUP-01,True
+SKU-138,Laptop Backpack,Electronics,950.0,1519.0,400.0,0.181,SUP-02,True
+SKU-139,Mosquito Repellent Refill,Personal Care,65.0,124.0,450.0,0.249,SUP-08,True
+SKU-140,Kitchen Knife Set,Home & Kitchen,530.0,954.0,550.0,0.254,SUP-04,True

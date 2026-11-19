@@ -1,0 +1,27 @@
+code,name,location_type,city,latitude,longitude,daily_demand_units,warehouse_code,supplier_code,is_simulated
+WH-MUM,Mumbai Fulfilment Centre (Bhiwandi),warehouse,Mumbai,19.3,73.06,0,WH-MUM,,True
+WH-DEL,Delhi NCR Fulfilment Centre (Gurugram),warehouse,Gurugram,28.46,77.03,0,WH-DEL,,True
+WH-BLR,Bengaluru Fulfilment Centre (Hoskote),warehouse,Bengaluru,13.08,77.8,0,WH-BLR,,True
+WH-KOL,Kolkata Fulfilment Centre (Howrah),warehouse,Kolkata,22.59,88.26,0,WH-KOL,,True
+DC-NAG,Nagpur Distribution Centre,distribution_center,Nagpur,21.15,79.09,0,,,True
+DC-HYD,Hyderabad Distribution Centre,distribution_center,Hyderabad,17.39,78.49,0,,,True
+DC-LKO,Lucknow Distribution Centre,distribution_center,Lucknow,26.85,80.95,0,,,True
+ST-PUN,Pune Retail Hub,retail_store,Pune,18.56,73.81,640,,,True
+ST-SUR,Surat Retail Hub,retail_store,Surat,21.17,72.83,420,,,True
+ST-JAI,Jaipur Retail Hub,retail_store,Jaipur,26.91,75.79,380,,,True
+ST-CHD,Chandigarh Retail Hub,retail_store,Chandigarh,30.73,76.78,300,,,True
+ST-CHN,Chennai Retail Hub,retail_store,Chennai,13.05,80.21,610,,,True
+ST-KOC,Kochi Retail Hub,retail_store,Kochi,9.98,76.28,280,,,True
+ST-IND,Indore Retail Hub,retail_store,Indore,22.72,75.86,330,,,True
+ST-BBS,Bhubaneswar Retail Hub,retail_store,Bhubaneswar,20.3,85.82,240,,,True
+ST-VTZ,Visakhapatnam Retail Hub,retail_store,Visakhapatnam,17.69,83.22,220,,,True
+ST-PAT,Patna Retail Hub,retail_store,Patna,25.59,85.14,260,,,True
+ST-GOA,Goa Retail Hub,retail_store,Panaji,15.49,73.83,180,,,True
+N-SUP-01,Apex Components Pvt Ltd,supplier,Pune,18.52,73.86,0,,SUP-01,True
+N-SUP-02,Bharat Electronics Supply,supplier,Bengaluru,12.97,77.59,0,,SUP-02,True
+N-SUP-03,Coastal Traders & Co,supplier,Chennai,13.08,80.27,0,,SUP-03,True
+N-SUP-04,Delta Home Essentials,supplier,Ahmedabad,23.02,72.57,0,,SUP-04,True
+N-SUP-05,Eastern Agro Foods,supplier,Kolkata,22.57,88.36,0,,SUP-05,True
+N-SUP-06,FabWeave Textiles,supplier,Tiruppur,11.11,77.34,0,,SUP-06,True
+N-SUP-07,Gulf Imports & Logistics,supplier,Navi Mumbai,19.03,73.03,0,,SUP-07,True
+N-SUP-08,Himalaya Personal Care Mfg,supplier,Haridwar,29.95,78.16,0,,SUP-08,True

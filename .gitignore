@@ -1,0 +1,17 @@
+# secrets
+.env
+backend/.env
+# python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+# working data, generated models and uploads (recreate with: python -m app.seed.init_data --train)
+backend/data/
+backend/data_archive/
+backend/artifacts/
+backend/datasets/uci/
+# node
+frontend/node_modules/
+frontend/dist/

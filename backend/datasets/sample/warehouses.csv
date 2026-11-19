@@ -1,0 +1,5 @@
+code,name,city,latitude,longitude,capacity_units,is_simulated
+WH-MUM,Mumbai Fulfilment Centre (Bhiwandi),Mumbai,19.3,73.06,26000,True
+WH-DEL,Delhi NCR Fulfilment Centre (Gurugram),Gurugram,28.46,77.03,26000,True
+WH-BLR,Bengaluru Fulfilment Centre (Hoskote),Bengaluru,13.08,77.8,18000,True
+WH-KOL,Kolkata Fulfilment Centre (Howrah),Kolkata,22.59,88.26,16000,True

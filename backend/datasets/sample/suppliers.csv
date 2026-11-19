@@ -1,0 +1,9 @@
+code,name,city,region,country,latitude,longitude,quality_rating,contact_email,is_simulated
+SUP-01,Apex Components Pvt Ltd,Pune,West,India,18.52,73.86,4.6,orders@sup-01.example,True
+SUP-02,Bharat Electronics Supply,Bengaluru,South,India,12.97,77.59,4.2,orders@sup-02.example,True
+SUP-03,Coastal Traders & Co,Chennai,South,India,13.08,80.27,3.8,orders@sup-03.example,True
+SUP-04,Delta Home Essentials,Ahmedabad,West,India,23.02,72.57,4.4,orders@sup-04.example,True
+SUP-05,Eastern Agro Foods,Kolkata,East,India,22.57,88.36,4.0,orders@sup-05.example,True
+SUP-06,FabWeave Textiles,Tiruppur,South,India,11.11,77.34,4.3,orders@sup-06.example,True
+SUP-07,Gulf Imports & Logistics,Navi Mumbai,West,India,19.03,73.03,3.6,orders@sup-07.example,True
+SUP-08,Himalaya Personal Care Mfg,Haridwar,North,India,29.95,78.16,4.7,orders@sup-08.example,True

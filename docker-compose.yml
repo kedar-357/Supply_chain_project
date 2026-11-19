@@ -1,0 +1,28 @@
+# Two services only: the FastAPI backend (with file-based storage on a volume) and the React frontend.
+services:
+  backend:
+    build: ./backend
+    environment:
+      JWT_SECRET: ${JWT_SECRET:?set JWT_SECRET in .env}
+      CORS_ORIGINS: http://localhost:8080
+      DEMO_MODE: "true"
+      DEMO_ADMIN_PASSWORD: ${DEMO_ADMIN_PASSWORD}
+      DEMO_MANAGER_PASSWORD: ${DEMO_MANAGER_PASSWORD}
+      DEMO_ANALYST_PASSWORD: ${DEMO_ANALYST_PASSWORD}
+      SEED_TRAIN: ${SEED_TRAIN:-true}
+    volumes:
+      - scx-data:/app/data            # CSV tables, JSON documents, uploads, backups, reports
+      - scx-artifacts:/app/artifacts  # trained joblib models
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+
+volumes:
+  scx-data:
+  scx-artifacts:
